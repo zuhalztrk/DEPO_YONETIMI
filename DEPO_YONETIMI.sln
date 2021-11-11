@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DEPO_YONETIMI.Module", "DEPO_YONETIMI.Module\DEPO_YONETIMI.Module.csproj", "{CFB6C613-1DBA-4064-A978-4A6AB3CC1D2E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DEPO_YONETIMI.Module.Win", "DEPO_YONETIMI.Module.Win\DEPO_YONETIMI.Module.Win.csproj", "{706899D5-F1BA-469C-BAD2-6A081B507655}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DEPO_YONETIMI.Win", "DEPO_YONETIMI.Win\DEPO_YONETIMI.Win.csproj", "{5526850D-BB45-4AD4-B2BC-E7AC0C9F5209}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DEPO_YONETIMI.Module.Blazor", "DEPO_YONETIMI.Module.Blazor\DEPO_YONETIMI.Module.Blazor.csproj", "{0671439D-F5A3-4746-AC4C-D4CD69CB475A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DEPO_YONETIMI.Blazor.Server", "DEPO_YONETIMI.Blazor.Server\DEPO_YONETIMI.Blazor.Server.csproj", "{529397AF-176C-40F9-9320-34153927089A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB6C613-1DBA-4064-A978-4A6AB3CC1D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB6C613-1DBA-4064-A978-4A6AB3CC1D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB6C613-1DBA-4064-A978-4A6AB3CC1D2E}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{CFB6C613-1DBA-4064-A978-4A6AB3CC1D2E}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{CFB6C613-1DBA-4064-A978-4A6AB3CC1D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB6C613-1DBA-4064-A978-4A6AB3CC1D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{706899D5-F1BA-469C-BAD2-6A081B507655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706899D5-F1BA-469C-BAD2-6A081B507655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706899D5-F1BA-469C-BAD2-6A081B507655}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{706899D5-F1BA-469C-BAD2-6A081B507655}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{706899D5-F1BA-469C-BAD2-6A081B507655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706899D5-F1BA-469C-BAD2-6A081B507655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5526850D-BB45-4AD4-B2BC-E7AC0C9F5209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5526850D-BB45-4AD4-B2BC-E7AC0C9F5209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5526850D-BB45-4AD4-B2BC-E7AC0C9F5209}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{5526850D-BB45-4AD4-B2BC-E7AC0C9F5209}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{5526850D-BB45-4AD4-B2BC-E7AC0C9F5209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5526850D-BB45-4AD4-B2BC-E7AC0C9F5209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0671439D-F5A3-4746-AC4C-D4CD69CB475A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0671439D-F5A3-4746-AC4C-D4CD69CB475A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0671439D-F5A3-4746-AC4C-D4CD69CB475A}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{0671439D-F5A3-4746-AC4C-D4CD69CB475A}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{0671439D-F5A3-4746-AC4C-D4CD69CB475A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0671439D-F5A3-4746-AC4C-D4CD69CB475A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{529397AF-176C-40F9-9320-34153927089A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529397AF-176C-40F9-9320-34153927089A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529397AF-176C-40F9-9320-34153927089A}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{529397AF-176C-40F9-9320-34153927089A}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{529397AF-176C-40F9-9320-34153927089A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529397AF-176C-40F9-9320-34153927089A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83D02BA9-D487-4CAB-B9F7-1BCE8E853EFB}
+	EndGlobalSection
+EndGlobal
